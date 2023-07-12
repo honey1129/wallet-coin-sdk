@@ -1,5 +1,4 @@
-module wallet-coin-sdk
-
+module github.com/honey1129/wallet-coin-sdk
 go 1.17
 
 require (
