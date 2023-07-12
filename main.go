@@ -1,1 +1,1 @@
-package wallet-coin-sdk
+package main
