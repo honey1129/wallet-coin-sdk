@@ -1,4 +1,3 @@
-module wallet-coin-sdk
 go 1.17
 
 require (
